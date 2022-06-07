@@ -36,7 +36,7 @@ Because of the challenges in acquiring additional data in the field of biomedici
 
 Finally, a smaller learning rate of 0.0005 (as opposed to 0.001 in the original iteration) was used.
 
-# Results:
+# Results
 
 As described previously, the initial model was implemented in a piecewise manner, firstly to ensure the rigor of produced results, but also to highlight the importance of and performance improvements brought about by specific features of the model.
 
